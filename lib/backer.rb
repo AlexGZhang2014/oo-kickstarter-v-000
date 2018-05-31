@@ -6,4 +6,8 @@ class Backer
   
   attr_accessor :backed_projects
   
+  def back_project(project)
+    
+  end
+  
 end
