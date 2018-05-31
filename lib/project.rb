@@ -4,7 +4,7 @@ class Project
     @backers = []
   end
   
-  attr_accessor :backers
+  attr_accessor :title, :backers
   
   def add_backer(backer)
     @backers << backer
