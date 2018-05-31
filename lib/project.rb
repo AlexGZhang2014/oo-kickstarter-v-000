@@ -6,7 +6,7 @@ class Project
   
   attr_accessor :backers
   
-  def add_backers
+  def add_backer(backer)
     
   end
   
