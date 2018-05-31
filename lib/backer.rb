@@ -4,5 +4,6 @@ class Backer
     @backed_projects = []
   end
   
+  attr_accessor :backed_projects
   
 end
